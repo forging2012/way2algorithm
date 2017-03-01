@@ -1,0 +1,62 @@
+# Way To Algorithm
+
+- Algorithm
+  - [Sort(排序算法)](https://github.com/shiyanhui/way2algorithm/tree/master/sort)
+  - Recurision(递归)
+  - Backtracking(回溯)
+  - Greedy(贪心)
+  - Divide and Conquer(分治)
+  - Dynamic Programming(动态规划)
+  - Bit Manipulation(位操作)
+  - Math(数学相关算法)
+  - Geometry(几何相关)
+  - Randomized Algorithm(随机算法)
+  - Encryption Algorithm(加密算法)
+    - [MurmurHash](https://github.com/shiyanhui/way2algorithm/tree/master/encryption/murmurhash)
+  - 搜索算法
+    - [Binary Search(二分查找)](https://github.com/shiyanhui/way2algorithm/tree/master/binarysearch)
+    - DFS
+    - BFS
+    - A\*
+    - 字符串
+      - KMP
+      - Boyer-Moore
+      - Rabin-Karp
+
+- Data Structue
+  - Array
+  - Liked List
+    - Skip List
+  - Queue
+  - Stack
+  - Heap
+    - Binary Heap(二叉堆)
+    - Binomial Heap(二项堆)
+    - Fibonacci Heap(斐波那契堆)
+  - [Hash Table](https://github.com/shiyanhui/way2algorithm/tree/master/hashtable)
+  - [Tree](https://github.com/shiyanhui/way2algorithm/tree/master/tree)
+    - [Binary tree](https://github.com/shiyanhui/way2algorithm/tree/master/tree/binarytree)
+    - [Trie](https://github.com/shiyanhui/way2algorithm/tree/master/tree/trie)
+    - Suffix Tree(后缀树)
+    - [Binary Indexed Tree(树状数组)](https://github.com/shiyanhui/way2algorithm/tree/master/tree/fenwicktree)
+    - R Tree
+    - Balanced Tree
+      - [B-Tree](https://github.com/shiyanhui/way2algorithm/tree/master/tree/btree)
+      - [B+Tree](https://github.com/shiyanhui/way2algorithm/tree/master/tree/bplus)
+      - B\* Tree
+      - [Segment Tree(线段树)](https://github.com/shiyanhui/way2algorithm/tree/master/tree/segmenttree)
+      - [Treap(树堆)](https://github.com/shiyanhui/way2algorithm/tree/master/tree/treap)
+      - [AVL Tree](https://github.com/shiyanhui/way2algorithm/tree/master/tree/avl)
+      - Splay Tree
+      - [Red-Black Tree](https://github.com/shiyanhui/way2algorithm/tree/master/tree/redblack)
+  - Graph
+    - 图表示法及基本操作
+    - Shortest Path(最短路径)
+      - Dijkstra
+      - Floyd
+      - SPFA
+    - Minimum spanning Tree(最小生成树)
+      - Prim
+    - [Union Find(并查集)](https://github.com/shiyanhui/way2algorithm/tree/master/graph/unionfind)
+    - Topological Sort(拓扑排序)
+    - Flow Network(网络流)

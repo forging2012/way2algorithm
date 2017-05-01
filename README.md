@@ -26,7 +26,7 @@
 - Data Structue
   - Array
   - Liked List
-    - Skip List
+    - [Skip List](https://github.com/shiyanhui/way2algorithm/tree/master/skiplist)
   - Queue
   - Stack
   - Heap
